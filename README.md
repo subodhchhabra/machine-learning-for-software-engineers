@@ -288,6 +288,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 - [ ] [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 - [ ] [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
+- [ ] [Coursera’s Deep Learning](https://www.coursera.org/specializations/deep-learning)
 
 ## Resources
 - [ ] [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)
@@ -295,6 +296,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Best practices rule book for Machine Learning engineering from Google](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [ ] [Machine Learning for Software Engineers on Hacker News](https://news.ycombinator.com/item?id=12898718)
 - [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/)
+- [ ] [Machine Learning for Humans🤖👶](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 - [ ] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
 - [ ] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
 - [ ] [Getting Started with Machine Learning: For absolute beginners and fifth graders](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.yjtiy7ei9)
@@ -309,6 +311,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [{Machine, Deep} Learning for software engineers](https://speakerdeck.com/pmigdal/machine-deep-learning-for-software-engineers)
 - [ ] [Deep Learning For Beginners](https://deeplearning4j.org/deeplearningforbeginners.html)
 - [ ] [Foundations for deep learning](https://github.com/pauli-space/foundations_for_deep_learning)
+- [ ] [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap)
 - Machine Learning courses in Universities
     - [ ] [Stanford](http://ai.stanford.edu/courses/)
     - [ ] [Machine Learning Summer Schools](http://mlss.cc/)
